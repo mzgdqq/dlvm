@@ -1,6 +1,9 @@
 # dm平台dlvm--netcore源码框架源码
+# 官网及视频教程
+官方网站：http://www.dlvm.vip  <br>
+操作手册：http://www.dlvm.vip/index.php?act=zaixianwd
 # 联系我们
-QQ群号：488276608
+QQ群号：488276608<br>
 <img src=https://images.gitee.com/uploads/images/2021/0505/174527_db5685c8_7490781.png>
 # 平台演示图
 <img src=https://images.gitee.com/uploads/images/2021/0505/162718_86eddf04_7490781.png>
